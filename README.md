@@ -5,7 +5,7 @@ Công nghệ được nghiên cứu và sử dụng chủ yếu là MERN. Công 
 
 Ngoài ra trong quá trình phất triển website, ở phía backend sẽ sử dụng mô hình MVC để tối ưu hóa trong việc làm việc nhóm. Dễ dàng phân chia công việc, trong đó còn có thể tái sử dụng mã nguồn và UI.
 # Giao diện của website
-## Giao diện người dùng
+## Giao diện người dùng (User UI)
 ### Homepage
 ![Homepage](https://raw.githubusercontent.com/tynkeyrm0511/WebsiteBanDienThoai/refs/heads/master/Images/trangchu.png)
 ### Header
@@ -20,6 +20,8 @@ Ngoài ra trong quá trình phất triển website, ở phía backend sẽ sử 
 ![Forgot Password](https://raw.githubusercontent.com/tynkeyrm0511/WebsiteBanDienThoai/refs/heads/master/Images/resetpassword.png)
 ### Search
 ![Search](https://raw.githubusercontent.com/tynkeyrm0511/WebsiteBanDienThoai/refs/heads/master/Images/search.png)
+### Profile
+![Profile](https://raw.githubusercontent.com/tynkeyrm0511/WebsiteBanDienThoai/refs/heads/master/Images/profile.png)
 ### Update-Profile
 ![Update-Profile](https://raw.githubusercontent.com/tynkeyrm0511/WebsiteBanDienThoai/refs/heads/master/Images/update-profile.png)
 ### Cart
@@ -30,4 +32,12 @@ Ngoài ra trong quá trình phất triển website, ở phía backend sẽ sử 
 ![Contact](https://raw.githubusercontent.com/tynkeyrm0511/WebsiteBanDienThoai/refs/heads/master/Images/contact.png)
 ### Privacy
 ![Privacy](https://raw.githubusercontent.com/tynkeyrm0511/WebsiteBanDienThoai/refs/heads/master/Images/privacy.png) 
-
+## Giao diện quản trị viên (Admin UI)
+### Admin Profile
+![Admin Profile](https://raw.githubusercontent.com/tynkeyrm0511/WebsiteBanDienThoai/refs/heads/master/Images/admin-profile.png)
+### Create Product
+![Create Product](https://raw.githubusercontent.com/tynkeyrm0511/WebsiteBanDienThoai/refs/heads/master/Images/admin-CRUD-product.png)
+### Product List
+![Product List](https://raw.githubusercontent.com/tynkeyrm0511/WebsiteBanDienThoai/refs/heads/master/Images/admin-CRUD-product%202.png)
+### Update/Delete Product
+![Update/Delete Product](https://github.com/tynkeyrm0511/WebsiteBanDienThoai/blob/master/Images/admin-CRUD-product%203.png)
