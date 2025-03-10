@@ -5,28 +5,29 @@ Công nghệ được nghiên cứu và sử dụng chủ yếu là MERN. Công 
 
 Ngoài ra trong quá trình phất triển website, ở phía backend sẽ sử dụng mô hình MVC để tối ưu hóa trong việc làm việc nhóm. Dễ dàng phân chia công việc, trong đó còn có thể tái sử dụng mã nguồn và UI.
 # Giao diện của website
-## Homepage
+## Giao diện người dùng
+### Homepage
 ![Homepage](https://raw.githubusercontent.com/tynkeyrm0511/WebsiteBanDienThoai/refs/heads/master/Images/trangchu.png)
-## Header
+### Header
 ![Header](https://raw.githubusercontent.com/tynkeyrm0511/WebsiteBanDienThoai/refs/heads/master/Images/header.png)
-## Footer
+### Footer
 ![Footer](https://raw.githubusercontent.com/tynkeyrm0511/WebsiteBanDienThoai/refs/heads/master/Images/footer.png)
-## Login
+### Login
 ![Login](https://raw.githubusercontent.com/tynkeyrm0511/WebsiteBanDienThoai/refs/heads/master/Images/login.png)
-## Register
+### Register
 ![Register](https://raw.githubusercontent.com/tynkeyrm0511/WebsiteBanDienThoai/refs/heads/master/Images/register.png)
-## Forgot Password
+### Forgot Password
 ![Forgot Password](https://raw.githubusercontent.com/tynkeyrm0511/WebsiteBanDienThoai/refs/heads/master/Images/resetpassword.png)
-## Search
+### Search
 ![Search](https://raw.githubusercontent.com/tynkeyrm0511/WebsiteBanDienThoai/refs/heads/master/Images/search.png)
-## Update-Profile
+### Update-Profile
 ![Update-Profile](https://raw.githubusercontent.com/tynkeyrm0511/WebsiteBanDienThoai/refs/heads/master/Images/update-profile.png)
-## Cart
+### Cart
 ![Cart](https://raw.githubusercontent.com/tynkeyrm0511/WebsiteBanDienThoai/refs/heads/master/Images/cart.png)
-## About
+### About
 ![About](https://raw.githubusercontent.com/tynkeyrm0511/WebsiteBanDienThoai/refs/heads/master/Images/about.png)
-## Contact
+### Contact
 ![Contact](https://raw.githubusercontent.com/tynkeyrm0511/WebsiteBanDienThoai/refs/heads/master/Images/contact.png)
-## Privacy
+### Privacy
 ![Privacy](https://raw.githubusercontent.com/tynkeyrm0511/WebsiteBanDienThoai/refs/heads/master/Images/privacy.png) 
 
